@@ -20,8 +20,8 @@ Este proyecto es un backend desarrollado con **Spring Boot** que implementa aute
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/backend-jwt-auth.git
-cd backend-jwt-auth
+git clone https://github.com/Bfarez21/Login-Register-Back.git
+cd Login-Register-Back
 ```
 
 ### 2. Configurar la base de datos
